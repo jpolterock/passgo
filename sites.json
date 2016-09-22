@@ -1,1 +1,42 @@
-[]
+[
+	{
+		"PubKey": [
+			87,
+			196,
+			58,
+			42,
+			185,
+			3,
+			80,
+			185,
+			130,
+			200,
+			137,
+			88,
+			169,
+			71,
+			11,
+			126,
+			147,
+			178,
+			161,
+			29,
+			232,
+			194,
+			11,
+			23,
+			102,
+			250,
+			113,
+			224,
+			67,
+			230,
+			230,
+			31
+		],
+		"PassSealed": "8FFWvyijIV7mVMBy/SaLkCHnLObaB+yLKJ1vo7IeiHr9xIaMqhkfU4RWCV/zqf6X",
+		"Name": "google/mail.google.com",
+		"FileName": "",
+		"IsFile": false
+	}
+]
