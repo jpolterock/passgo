@@ -1,7 +1,7 @@
 {
 	"MasterKeyPrivSealed": "IVqeFbk/QiAwvt088k4z5x5oWo5lRYzbbLJoaNC3P7sMypGpg8DGx8OCXjZ+4FBN0zIFUU9EuxKspKuoIpNxgeYAbyFoL300",
 	"PubKeyHmac": "X0RVINdl+j7YJAMZ8YD1ONlzAB483McRHyRTQOqGepw=",
-	"SiteHmac": null,
+	"SiteHmac": "UsPhLEd1HT7NOrCkHh64ilTQ6WI703z+duSv6OA5Km0=",
 	"MasterPubKey": [
 		128,
 		82,
